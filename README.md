@@ -29,7 +29,8 @@ JS以及其它HTML等源码
 
 六、可视化数据接口
 ------------------------
-1、访问地址：http://localhost:7476/rsks/hello/index
+1.访问地址：http://localhost:7476/rsks/hello/index
+2.CNN地址：https://poloclub.github.io/cnn-explainer/
 
 七、启动部署文件
 ------------------------
